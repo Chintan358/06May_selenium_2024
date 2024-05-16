@@ -1,0 +1,26 @@
+package basic;
+
+public class B002_Datatypes {
+	public static void main(String[] args) {
+		
+		
+			byte b = -128;
+			short s = 125;
+			int i = 5656;
+			long l = 66565;
+			
+			float f = 23.565665464f;
+			double d = 133.556546565656;
+			
+			//System.out.println(f);
+			//System.out.println(d);
+			
+			char ch = 'A';
+			boolean bool = true;
+			
+			char c = 20;
+			System.out.println(c);
+		
+		
+	}
+}

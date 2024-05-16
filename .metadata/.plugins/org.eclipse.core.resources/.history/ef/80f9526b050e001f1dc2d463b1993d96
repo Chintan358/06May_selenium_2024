@@ -1,0 +1,13 @@
+package basic;
+
+public class Identifer {
+	public static void main(String[] args) {
+		
+		
+		
+		int $as12$_ = 10;
+		String myname = "Sivam";
+		
+		
+	}
+}

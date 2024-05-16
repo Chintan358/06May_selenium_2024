@@ -1,0 +1,12 @@
+Variables or identifier : 
+***********************************
+A variable in the java programming language is a storage location that is used to 
+store data. Variables are declared with a data type, which specifies the type of 
+data that can be stored in the variable.
+
+Rules : 
+1 . Names can contain letters, digits, underscores, and dollar signs
+2 . Names must begin with a letter or $ or _
+3 . Names should start with a lowercase letter, and cannot contain whitespace
+
+Convetions : 
