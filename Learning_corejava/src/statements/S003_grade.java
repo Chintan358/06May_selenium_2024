@@ -1,10 +1,13 @@
 package statements;
 
+import java.util.Scanner;
+
 public class S003_grade {
 	public static void main(String[] args) {
 		
-		
-		int marks = 100;
+		Scanner sc = new Scanner(System.in);
+		System.out.println("enter marks : ");
+		int marks = sc.nextInt();
 		
 		//90-100 - A
 		//70 - 89 = B
