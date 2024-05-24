@@ -89,10 +89,42 @@ collection of same type of data
 -1Darray
 -mDarray
 
+********************************
+OOPS : Object oriented programming
+POP : processer oriented programming
+
+*************
+class
+object
+inheritace
+encaptulation
+polymorphism
+abstraction
+************************
+
+Object : Realtime entity
+Class : logical entity  -collection of data memeber and function member
+
+Object : 
+state / variables / data member
+behaviour / methods / function memebr
+
+method syntax : 
+
+Accessmodifier returntype(*) methodname(args)
+{
+	//logical part...
+}
+
+ex :public void sample()
+	{
+		
+	}
 
 
-
-
+function memebr and datamember can be of 2 types :
+static / class memeber
+non-static / instance member
 
 
 

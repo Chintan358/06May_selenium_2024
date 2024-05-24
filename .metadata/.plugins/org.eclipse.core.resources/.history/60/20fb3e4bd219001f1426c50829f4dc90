@@ -1,0 +1,21 @@
+package oops;
+
+class Emp
+{
+	int id;
+	String name;
+	
+	public void print()
+	{
+		System.out.println(id+" "+name);
+	}
+}
+
+public class O003_constructorDemo {
+	public static void main(String[] args) {
+		
+		Emp e = new Emp();
+		e.print();
+		
+	}
+}

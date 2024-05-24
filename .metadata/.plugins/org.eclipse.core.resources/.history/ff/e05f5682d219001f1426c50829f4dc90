@@ -1,0 +1,29 @@
+package oops;
+
+class Emp
+{
+	int id;
+	String name;
+	
+	Emp(int a, String b)
+	{
+		id  =a;
+		name=b;
+	}
+	
+	public void print()
+	{
+		System.out.println(id+" "+name);
+	}
+}
+
+public class O003_constructorDemo {
+	public static void main(String[] args) {
+		
+		Emp e = new Emp(10,"Nitesh");
+		e.print();
+	
+		Emp e1 = new Emp(20, "Shivam");
+		e1.print();
+	}
+}
