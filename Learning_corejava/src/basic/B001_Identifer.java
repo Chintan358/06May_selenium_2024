@@ -1,6 +1,11 @@
 package basic;
 
-public class B001_Identifer {
+import oops.Access;
+
+public class B001_Identifer extends Access {
+	
+	
+	
 	public static void main(String[] args) {
 		
 		
@@ -12,6 +17,14 @@ public class B001_Identifer {
 		
 		
 		String myFirstName = "nitesh";
+		
+		
+		
+//		Access ac = new Access();
+//		ac.sample();
+//		ac.run();
+//		ac.display();
+//		ac.show();
 		
 	}
 }

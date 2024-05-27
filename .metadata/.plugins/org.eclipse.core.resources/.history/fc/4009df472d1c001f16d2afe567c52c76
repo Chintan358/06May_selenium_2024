@@ -1,0 +1,28 @@
+package oops;
+
+class Calc
+{
+	public void sample()
+	{
+		System.out.println("Sample callling...");
+	}
+	
+	public void square(int a)
+	{
+		System.out.println("Square of "+a+" is : "+(a*a));
+	}
+	
+	public void add(int a, int b)
+	{
+		System.out.println("addition of "+a+" and "+b+" is "+(a+b));
+	}
+}
+
+public class O007_MathodManipulation {
+	public static void main(String[] args) {
+		
+		Calc c = new Calc();
+		c.sample();
+		c.square(25);
+	}
+}

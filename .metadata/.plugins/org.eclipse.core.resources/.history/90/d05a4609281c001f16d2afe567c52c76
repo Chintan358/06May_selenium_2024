@@ -1,0 +1,34 @@
+package oops;
+
+//parent - super - base
+class A
+{
+	int a=10;
+	
+	public void sample()
+	{
+		System.out.println("Running smaple method....of class A");
+	}
+}
+
+//child - sub - derived
+class B extends A
+{
+	public void run()
+	{
+		System.out.println("Runing run method of b");
+	}
+}
+
+public class O005_InheritanceDemo {
+	public static void main(String[] args) {
+		
+		
+		A a = new A();
+		a.sample();
+		
+		B b = new B();
+		b.sample();
+		b.sample();
+	}
+}

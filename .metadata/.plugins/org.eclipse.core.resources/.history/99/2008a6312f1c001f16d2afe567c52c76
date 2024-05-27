@@ -1,0 +1,14 @@
+package oops;
+
+
+public class O006_EncaptulaionDemo {
+	public static void main(String[] args) {
+		
+		
+		Std st = new Std();
+		st.setData(10, "Nitesh");
+		st.display();
+		
+		
+	}
+}

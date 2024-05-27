@@ -38,5 +38,11 @@ public class O001_ClassDemo
 		
 		Pen.sample();
 		
+		Access ac = new Access();
+		ac.sample();
+		ac.run();
+		ac.display();
+		//ac.show();
+		
 	}
 }
