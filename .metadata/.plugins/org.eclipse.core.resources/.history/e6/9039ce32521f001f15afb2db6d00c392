@@ -1,0 +1,172 @@
+Variables or identifier : 
+***********************************
+A variable in the java programming language is a storage location that is used to 
+store data. Variables are declared with a data type, which specifies the type of 
+data that can be stored in the variable.
+
+Rules : 
+1 . Names can contain letters, digits, underscores, and dollar signs
+2 . Names must begin with a letter or $ or _
+3 . Names should start with a lowercase letter, and cannot contain whitespace
+4 . Reserved words (like Java keywords, such as int or boolean) cannot be used as names
+
+
+Convetions : 
+
+1.It should start with a lowercase letter such as id, name
+2.It should not start with the special characters like & (ampersand), $ (dollar), _ (underscore).
+3.If the name contains multiple words, start it with the lowercase letter followed by an
+  uppercase letter such as firstName, lastName.
+4.Avoid using one-character variables such as x, y, z.
+
+**********************************************************************
+**********************************************************************
+Datatypes : 8
+
+byte	0			1 byte   2^7-1  to -2^7 : 127 to -128
+short	0			2 byte   2^15-1 to -2^15
+int		0			4 byte   2^31-1 to -2^31
+long	0			8 byte
+
+float	0.0			4 byte
+double	0.0			8 byte
+
+char	''			2 byte
+boolean false		1 bit
+
+String : is not a datatype in java
+
+8 bit = 1 byte
+1024 byte = 1 kb
+1024 kb = 1mb
+1024 mb = 1gb
+1024 gb = 1tb
+
+************************
+Operators : 
+************
+Arithmatic : 
++,-,*,/,%
+
+Relatinal :
+<,>,==,!=,<=,>=
+
+logical : 
+And, or
+
+unary  : 
+++,--
+
+turnary : 
+
+condtion ? true  :false
+
+********************************
+Statements : 
+conditional
+if-else
+switch-case
+
+lopping
+for
+while
+do-while
+
+*****************************
+
+factorial
+fibbonaci
+prime
+odd-even
+armstrong
+pelindrom
+
+*********************************
+Array : 
+*************
+collection of same type of data
+
+-1Darray
+-mDarray
+
+********************************
+OOPS : Object oriented programming
+POP : processer oriented programming
+
+*************
+class
+object
+inheritace
+encaptulation
+polymorphism
+abstraction
+************************
+
+Object : Realtime entity
+Class : logical entity  -collection of data memeber and function member
+
+Object : 
+state / variables / data member
+behaviour / methods / function memebr
+
+method syntax : 
+
+Accessmodifier returntype(*) methodname(args)
+{
+	//logical part...
+}
+
+ex :public void sample()
+	{
+		
+	}
+
+
+function memebr and datamember can be of 2 types :
+static / class memeber
+non-static / instance member
+
+************************
+Polymorphism : 
+same name many forms
+-object behaves diffrenly at diffent stages of its life cycle.
+
+- compiletime : method overloading
+- runtime : method overriding
+
+*************************
+Abstraction : 
+Hiding the implimantation and showing functionality only.
+
+
+Abstract class : partials
+-its contains abstract and instance method both
+
+Interface :fully
+-its contains abstract method only
+
+*************
+abstract Method : 
+method without body : 
+public void display();
+
+
+instance Method :
+method with body
+
+public void display()
+{
+	//logic
+} 
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+package oops;
+
+interface I1
+{
+	public void run();
+}
+
+class Interimpl implements I1
+{
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}
+
+public class O011_InterfaceDemo {
+	public static void main(String[] args) {
+		
+		
+		Interimpl i = new Interimpl();
+		i.run();
+		
+	}
+}

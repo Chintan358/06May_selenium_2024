@@ -9,4 +9,8 @@
     <fullyQualifiedTypeName name="oops.Access"/>
     <fullyQualifiedTypeName name="oops.Std"/>
     <fullyQualifiedTypeName name="oops.Calc"/>
+    <fullyQualifiedTypeName name="oops.Calc1"/>
+    <fullyQualifiedTypeName name="oops.Q"/>
+    <fullyQualifiedTypeName name="oops.AbsImpl"/>
+    <fullyQualifiedTypeName name="oops.Interimpl"/>
 </qualifiedTypeNameHistroy>

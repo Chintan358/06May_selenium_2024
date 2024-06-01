@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;oops.O009_Method&apos; to &apos;O009_MethodOverriding&apos;&#x0D;&#x0A;- Original project: &apos;Learning_corejava&apos;&#x0D;&#x0A;- Original element: &apos;oops.O009_Method&apos;&#x0D;&#x0A;- Renamed element: &apos;oops.O009_MethodOverriding&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;O009_Method&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;oops{O009_Method.java[O009_Method" matchStrategy="1" name="O009_MethodOverriding" qualified="false" references="true" similarDeclarations="false" stamp="1717160416395" textual="false" version="1.0"/>
+</session>

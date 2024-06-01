@@ -126,6 +126,63 @@ function memebr and datamember can be of 2 types :
 static / class memeber
 non-static / instance member
 
+************************
+Polymorphism : 
+same name many forms
+-object behaves diffrenly at diffent stages of its life cycle.
+
+- compiletime : method overloading
+- runtime : method overriding
+
+*************************
+Abstraction : 
+Hiding the implimantation and showing functionality only.
+
+
+Abstract class : partials
+-its contains abstract and instance method both
+
+Interface :fully
+-its contains abstract method only
+
+*************
+abstract Method : 
+method without body : 
+public void display();
+
+
+instance Method :
+method with body
+
+public void display()
+{
+	//logic
+} 
+
+***********************************************
+Important classes
+*****************
+String
+String buffer
+String builder
+Wrapper
+Object
+Random
+Math
+
+*********************************************
+Exception handling
+*********************************************
+File IO
+********************************************
+Multi Threding
+*********************************************
+Collection 
+*******************************************
+
+
+
+
 
 
 
