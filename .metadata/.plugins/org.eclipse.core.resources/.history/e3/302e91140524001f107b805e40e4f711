@@ -1,0 +1,17 @@
+package impclasses;
+
+public class I001_String {
+	public static void main(String[] args) {
+		
+		//immutable
+		String str = "Nitesh";
+		
+		String str1 = new String("Shivam");
+		
+		System.out.println(str);
+		System.out.println(str1);
+		
+		
+		
+	}
+}

@@ -1,0 +1,15 @@
+package impclasses;
+
+public class I001_String {
+	public static void main(String[] args) {
+		
+		//immutable
+		//String str1 = new String("Shivam");
+		//System.out.println(str1);
+		
+		String str = "Nitesh";
+		String s =  str.concat("shivam");
+		
+		System.out.println(s);
+	}
+}

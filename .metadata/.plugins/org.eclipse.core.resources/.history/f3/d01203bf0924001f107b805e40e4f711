@@ -1,0 +1,12 @@
+package impclasses;
+
+public class I006_Other {
+	public static void main(String[] args) {
+		
+		
+		System.out.println(Math.PI);
+		
+		
+		
+	}
+}
